@@ -1,0 +1,13 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn {
+  display: flex;
+  margin-top: 10px;
+  gap: 10px;
+}
